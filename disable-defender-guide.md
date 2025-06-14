@@ -71,5 +71,5 @@ Microsoft не рекомендует. Однако в кастомных сбо
 
 ---
 
-🛠 Автор: @ТВОЙ_НИК  
-📡 Telegram-канал: [ссылка]
+🛠 Автор: @marselcomp
+📡 Telegram-канал: @whatmarsel
